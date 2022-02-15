@@ -8,6 +8,8 @@ public class java1 {
 		    int y = 3;
 		    System.out.println(x + y);
 	  System.out.println(x - y);
+	  System.out.println(x * y);
+	  System.out.println(x / y);
 
 	}
 
