@@ -12,6 +12,10 @@ public class java1 {
 	  System.out.println(x / y);
 	  ++x;
 	    System.out.println(x); //trying webhook
+	    System.out.println(x);//practice webhook
+	    System.out.println("Hello Thanvik");
+	    int myNum = 100000;
+	    System.out.println(myNum);  
 
 	}
 
