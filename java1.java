@@ -29,6 +29,14 @@ public class java1 {
 	      System.out.println(i);
 	      i++;
 	    }
-	}
+	    
+	    do {
+	        System.out.println(i);
+	        i++;
+	    }
+	      while (i < 5);  /// webhook practice
+	    }
 
 	}
+
+	
