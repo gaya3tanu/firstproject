@@ -16,6 +16,10 @@ public class java1 {
 	    System.out.println("Hello Thanvik");
 	    int myNum = 100000;
 	    System.out.println(myNum);  
+	    String name = "John";
+	    System.out.println("Hello " + name);
+	   --x;
+	    System.out.println(x);
 
 	}
 
