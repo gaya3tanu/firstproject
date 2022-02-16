@@ -24,7 +24,11 @@ public class java1 {
 	    System.out.println(x > 3 && x < 10); // returns true because 5 is greater than 3 AND 5 is less than 10
 	    String greeting = "Hello";
 	    System.out.println(greeting);
-
+	    int i = 0;
+	    while (i < 5) {
+	      System.out.println(i);
+	      i++;
+	    }
 	}
 
-}
+	}
