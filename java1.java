@@ -20,6 +20,7 @@ public class java1 {
 	    System.out.println("Hello " + name);
 	   --x;
 	    System.out.println(x);
+	    System.out.println(x == y); // returns false because 5 is not equal to 3
 
 	}
 
