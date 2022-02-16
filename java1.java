@@ -38,6 +38,7 @@ public class java1 {
 	    System.out.println("Hello class ");
 	    
 	    System.out.println(x); //trying webhook
+	    System.out.println(x); //trying 2 time
 	    }
 
 	}
