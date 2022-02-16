@@ -21,6 +21,7 @@ public class java1 {
 	   --x;
 	    System.out.println(x);
 	    System.out.println(x == y); // returns false because 5 is not equal to 3
+	    System.out.println(x > 3 && x < 10); // returns true because 5 is greater than 3 AND 5 is less than 10
 
 	}
 
